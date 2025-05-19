@@ -1,0 +1,8 @@
+Package: freecad-thumbnailer
+Version: 1.0-1
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Alfredo Monclus <1247237+alfrix@users.noreply.github.com>
+Description: Adds thumbnail preview support for FreeCAD (.fcstd) files on Linux
+ Depends: python3
